@@ -579,7 +579,7 @@ else:
     st.markdown(
         """
         <div class='app-footer'>
-            <p>Devoloped By Darhanikant © 2025 | All Rights Reserved</p>
+            <p>Devoloped By L © 2025 | All Rights Reserved</p>
         </div>
         """,
         unsafe_allow_html=True
